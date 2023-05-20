@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)  # Specifies the required CMake version.
-project("compressor" CPP)      # Defines the project name.
+project("compressor")      # Defines the project name.
 
 find_package(ZLIB REQUIRED)
 
